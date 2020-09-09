@@ -4,5 +4,11 @@ This is a project I made for my Introduction to Programming course in Visual Stu
 
 Creating and managing object instances was a challenge due to the procedural nature of C. Therefore, I opted to use an array of enemy instances to randomly create enemies at the top of the screen and have them destroyed when they were shot at by the player or when they passed through the bottom of the screen.
 
+</br  >
+<p align="center">
+  <img alt="HeHe" src="space-gif.gif" width=50%>
+</p>
+<\br  >
+
 Date of creation: December 2017  
 Type of project: Semester project
