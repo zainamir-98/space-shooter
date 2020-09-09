@@ -1,0 +1,2 @@
+﻿  Source.c
+C:\Users\HP z420 Xeon E5\Desktop\ProgrammingProject2017\ProgrammingProject2017\SpaceShooter\SpaceShooter\Source.c(2013,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?

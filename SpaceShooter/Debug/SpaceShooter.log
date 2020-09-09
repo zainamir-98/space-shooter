@@ -1,0 +1,48 @@
+﻿  Source.c
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(567,44): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(687,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(773,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(774,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(786,29): warning C4013: 'playerBulletCollision' undefined; assuming extern returning int
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(813,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(814,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(816,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(835,66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(836,66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(837,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(893,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(900,145): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(901,145): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(911,145): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(912,145): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(916,60): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(917,61): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(943,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(944,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(976,62): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(992,23): warning C4013: 'rand' undefined; assuming extern returning int
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1244,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1245,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1246,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1248,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1249,41): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1237,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1325,47): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1337,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1338,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1361,11): warning C4098: 'initSDL_GraphicsLib': 'void' function returning a value
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1380,11): warning C4098: 'initSDL_GraphicsLib': 'void' function returning a value
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1394,11): warning C4098: 'initSDL_GraphicsLib': 'void' function returning a value
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1555,11): warning C4098: 'initSDL_TTFLib': 'void' function returning a value
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1663,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1729,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1874,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1878,74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1879,74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1892,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1893,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1911,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1941,16): warning C4026: function declared with formal parameter list
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1945,7): warning C4013: 'srand' undefined; assuming extern returning int
+C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\SpaceShooter\Source.c(1937): warning C4715: 'randomRange': not all control paths return a value
+  SpaceShooter.vcxproj -> C:\Users\HP z420 Xeon E5\Desktop\SpaceShooter\Debug\SpaceShooter.exe
