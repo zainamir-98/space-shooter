@@ -12,3 +12,5 @@ Creating and managing object instances was a challenge due to the procedural nat
 
 Date of creation: December 2017  
 Type of project: Semester project
+
+**Important**: Place the <code>C Libraries</code> folder (containing the SDL libraries) in Local Disk C. Alternatively, you can re-link the libraries in Visual Studio by following this [guide](https://www.wikihow.com/Set-Up-SDL-with-Visual-Studio).
