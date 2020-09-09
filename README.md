@@ -6,7 +6,7 @@ Creating and managing object instances was a challenge due to the procedural nat
 
 </br  >
 <p align="center">
-  <img alt="HeHe" src="space-gif.gif" width=50%>
+  <img alt="HeHe" src="shooter-gif.gif" width=50%>
 </p>
 <\br  >
 
